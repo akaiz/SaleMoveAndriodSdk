@@ -1,6 +1,8 @@
-package com.salemove.salemoveandriodlibdemo;
+package com.salemove.AndroidSDK;
 
-import com.salemove.salemoveandriodsync.Main;
+
+
+import com.salemove.androidbundle.Main;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.salemove.salemoveandriodlibdemo;
+package com.salemove.AndroidSDK;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.salemove.salemoveandriodlibdemo", appContext.getPackageName());
+        assertEquals("com.salemove.AndroidSDK", appContext.getPackageName());
     }
 }
